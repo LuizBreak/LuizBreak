@@ -1,6 +1,4 @@
-### Hi there!
-
-Here is what I am currently up to. 👋
+### Hi there! Here is what I am currently up to. 👋
 
 My Name Is Luiz Estevo. Retired. Living in Dominican Republic. Looking to giving back to society all the amazing things life has provided me.
 
