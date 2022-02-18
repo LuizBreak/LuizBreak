@@ -18,8 +18,8 @@ My Name Is Luiz Estevo. Retired. Living in Dominican Republic. Looking to giving
 
 - 😄  Pronouns: He/Him
 
-- ⚡ Fun fact: I have Cycled around the Dominican Island twice already. Each time wast 1,200km in 14 days.
+- ⚡ Fun fact: I have Cycled around the Dominican Island twice already. A Total of t 1,200km in 14 days each time.
 
-Cheers & Happy Couding.
+Cheers & Happy Coding.
 
 **Personal Quote:** "The best way to predict the future is to create it"
