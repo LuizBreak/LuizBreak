@@ -2,7 +2,7 @@
 
 My Name Is Luiz Estevo. Retired. Living in Dominican Republic. Looking to giving back to society all the amazing things life has provided me.
 
-- 🔭 I’m currently working on creating a Students Incubator here in Dominican Republic whereas students are prepared bet ready for the real live projects. You check our website at [Target Innovations](https://www.target-innovations.com/#/)
+- 🔭 I’m currently working on creating a Students Incubator here in Dominican Republic whereas students are prepared to be ready for the real live projects. You check our website at [Target Innovations](https://www.target-innovations.com/#/)
 
 -    I am also working on a Vue.js Project to create an platform to provide handyman services engine to households and businesses in Dominican Republic. 
 
