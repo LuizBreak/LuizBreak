@@ -10,7 +10,7 @@ My Name Is Luiz Estevo. Retired. Living in Dominican Republic. Looking to giving
 
 - 👯  I’m looking to collaborate to open-source projects althought I dont have any experience on that space whatsoever. **Looking for mentors here**
 
-- 🤔  I’m looking for help with mentonring on Vue.js and Flutter development best pratices
+- 🤔  I’m looking for help with mentonring on Vue.js and VBA development best pratices
 
 - 💬  Ask me about Project Management Waterfall and Agile, Coaching and Mentoring
 
