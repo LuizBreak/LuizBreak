@@ -6,7 +6,7 @@ My Name Is Luiz Estevo. Retired. Living in Dominican Republic. Looking to giving
 
 -    I am also working on a Vue.js Project to create an platform to provide handyman services engine to households and businesses in Dominican Republic. 
 
-- 🌱  I’m currently learning Flutter, Vue.js and all components of the AWS ecosystem.
+- 🌱  I’m currently learning System Architecture using Vue.js and all components of the AWS ecosystem.
 
 - 👯  I’m looking to collaborate to open-source projects althought I dont have any experience on that space whatsoever. **Looking for mentors here**
 
